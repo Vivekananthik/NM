@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/312b12d1-345b-4177-bc10-63d2b3acac43
-
 <h1 align="center"> Online Grocery App using MERN</h1>
 
 <p float="left">
