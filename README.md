@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/312b12d1-345b-4177-bc10-63d2b3acac43
+
 <h1 align="center"> Online Grocery App using MERN</h1>
 
 <p float="left">
@@ -16,7 +18,6 @@
   <img src="."  width = 45%/>
   <img src="."  width = 45%/> -->
 </p>
-https://github.com/user-attachments/assets/312b12d1-345b-4177-bc10-63d2b3acac43
 
 <div class="theme-description">
                         <p>Vive InstaMart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
