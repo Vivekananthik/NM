@@ -4,7 +4,7 @@
   <img src="./src/Demoimages/01.png"  width = 45%/>
   <img src="./src/Demoimages/02.png"  width = 45%/>
   <img src="./src/Demoimages/03.png"  width = 45%/>
-  <img src="./src/Demoimages/04.png"  width = 45%/>
+
   <img src="./src/Demoimages/05.png"  width = 45%/>
   <img src="./src/Demoimages/06.png"  width = 45%/>
   <img src="./src/Demoimages/07.png"  width = 45%/>
